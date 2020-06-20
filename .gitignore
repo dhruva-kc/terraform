@@ -1,0 +1,4 @@
+.terraform/*
+readme.txt
+*.tfstate
+*.tfstate.backup
